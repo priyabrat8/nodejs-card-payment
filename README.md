@@ -1,11 +1,15 @@
 # nodejs-payment
 payment using nodejs and stripe
 
-# NPM
+## NPM
 https://www.npmjs.com/package/stripe
 
-# Article
+## STRIPE WEBSITE
+https://stripe.com/
+
+
+## Article
 https://stripe.com/docs/api/checkout/sessions/create
 
-# STRIPE WEBSITE
-https://stripe.com/
+## BLOG
+https://blog.webdevsimplified.com/2021-07/stripe-checkout/
