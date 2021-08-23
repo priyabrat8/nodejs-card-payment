@@ -8,7 +8,7 @@ https://www.npmjs.com/package/stripe
 https://stripe.com/
 
 
-## Article
+## DOCS
 https://stripe.com/docs/api/checkout/sessions/create
 
 ## BLOG
